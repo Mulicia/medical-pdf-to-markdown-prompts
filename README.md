@@ -25,5 +25,7 @@ flowchart LR
 	D --> E[高保真 Markdown 完整文件]
 
 ---
+```text
 ├── README.md                                      # 專案說明文件
 └── 醫學-pdf_to_markdown_expert_guidelines.md      # 核心專家規範 Prompt 主文件
+```
