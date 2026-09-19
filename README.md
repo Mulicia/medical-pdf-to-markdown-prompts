@@ -27,12 +27,3 @@ flowchart LR
 ---
 ├── README.md                                      # 專案說明文件
 └── 醫學-pdf_to_markdown_expert_guidelines.md      # 核心專家規範 Prompt 主文件
----
-
-### 使用提醒：
-* 請記得將文件中的 `YOUR_USERNAME` 與 `YOUR_REPO` 替換為您的 GitHub 帳號與儲存庫名稱。
-* 若您的專案打算開源，可以在 GitHub 專案中透過 **Add file** ➔ **Create new file** ➔ 檔名輸入 `LICENSE`，並選擇 **MIT License** 範本套用。
-
-<FollowUp>
-您是否需要針對特定平台（例如 Notion、Obsidian、Zotero 工作流或學術社群分享）在 README 中加入額外的整合說明？
-</FollowUp>
